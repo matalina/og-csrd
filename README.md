@@ -3,7 +3,7 @@
 
 https://callmepartario.github.io/og-csrd
 
-This document is an hypertext version of the February 10, 2023 edition of the [Cypher System Reference Document (CSRD)](http://csol.montecookgames.com/). It is intended to help Game Masters (GMs), players, and others interested in the Cypher System to learn more about it, create characters, worlds, and share stories together.
+This document is a hypertext version of the April 18, 2023 edition of the [Cypher System Reference Document (CSRD)](http://csol.montecookgames.com/). It is intended to help Game Masters (GMs), players, and others interested in the Cypher System to learn more about it, create characters, worlds, and share stories together.
 
 This product is an independent production and is not affiliated with Monte Cook Games, LLC. It is published under the Cypher System Open License, found at http://csol.montecookgames.com
 
@@ -27,13 +27,11 @@ Care should be taken when incorporating content, streamlining a a single-stream 
 
 ### Embrace Community and Designer Wisdom
 
-Editor's notes should draw upon the experiences of people who have spent years running and teaching the Cypher System (like the fine folks of the [Cypher Unlimited Discord Server](https://discord.com/invite/WQYRWhn)). Valuable blog posts from [Monte Cook Games' "Game Better"](https://www.montecookgames.com/category/all-news/game-better/) series of blog posts should be linked where applicable.
+Editor's notes should draw upon the experiences of people who have spent years running and teaching the Cypher System (like the fine folks of the [Cypher Unlimited Discord Server](https://discord.com/invite/WQYRWhn). Valuable blog posts from [Monte Cook Games' "Game Better" series](https://www.montecookgames.com/category/all-news/game-better/) should be linked where applicable.
 
+Readers are encouraged to support the creators. Consider buying products listed in the [Additional Descriptors](https://callmepartario.github.io/og-csrd/#additional-descriptors) or [Additional Foci](https://callmepartario.github.io/og-csrd/#additional-foci) sections to ensure the longevity of our collective imaginations.
 ## Future Plans
 
-This is a living document and corrections will need to be made in the future. Hopefully some additions, too, and if ever Monte Cook Games sees fit to expand the CSRD further, incorporating that content into the page.
+This is a living document, and corrections will need to be made in the future. If ever Monte Cook Games expands the CSRD further, that new content should be incorporated that content into this document accordingly.
 
-- **Error Correction:** Catch errors in the text and navigation coding.
-- **Provide a Downloadable Edition:** Provide a downloadable edition of the document.
-- **Print Styling:** Develop a print stylesheet for the document.
-- **Incorporate Feedback:** Learn how the document is recieved and improve things according to user feedback.
+**Contact the Editor:** partario.flynn@gmail.com
